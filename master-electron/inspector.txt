@@ -1,0 +1,10 @@
+use
+>npm run debug-inspector
+To use the inspector
+Go to chrome://inspect in chrome
+click on configure add port localhost:5858
+click on inpsect
+add trigger break point using following statement
+debugger;
+For Initial Break point
+>npm run debug-inspector-brk
